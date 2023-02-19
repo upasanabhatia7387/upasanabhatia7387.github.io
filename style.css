@@ -141,9 +141,15 @@ nav.sticky .menu-btn{
   color: #d85dc8;
 }
 .home .text-four{
-  font-size: 23px;
+  font-size: 20px;
   margin: 5px 0;
   color: #0E2431;
+}
+.home .text-five{
+  font-size: 17px;
+  /* margin: 5px 0; */
+  color: #0E2431;
+  
 }
 .home .button{
   margin: 14px 0;
